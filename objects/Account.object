@@ -245,6 +245,18 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>AppsFlyerTest__c</fullName>
+        <description>for test only</description>
+        <externalId>false</externalId>
+        <label>AppsFlyerTest</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>BillingAddress</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
